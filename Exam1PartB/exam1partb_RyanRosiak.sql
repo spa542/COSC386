@@ -4,11 +4,12 @@
  * 3/14/21
  */
 
-/* Table Creation */
+/* Table Creation first...
 CREATE TABLE Product(maker CHAR, model INT, type VARCHAR(10), PRIMARY KEY(model));
 CREATE TABLE PC(model INT, speed FLOAT, ram INT, hd INT, price INT, PRIMARY KEY(model));
 CREATE TABLE Laptop(model INT, speed FLOAT, ram INT, hd INT, screen FLOAT, price INT, PRIMARY KEY(model));
 CREATE TABLE Printer(model INT, color BOOLEAN, type VARCHAR(10), price INT, PRIMARY KEY(model));
+*/
 
 /* Insert data next... 
  * Sample:
